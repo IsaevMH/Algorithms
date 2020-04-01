@@ -1,0 +1,6 @@
+C:\Users\iwork\source\repos\SimpleAlgorithms\SimpleAlgorithms\bin\Debug\SimpleAlgorithms.exe.config
+C:\Users\iwork\source\repos\SimpleAlgorithms\SimpleAlgorithms\bin\Debug\SimpleAlgorithms.exe
+C:\Users\iwork\source\repos\SimpleAlgorithms\SimpleAlgorithms\bin\Debug\SimpleAlgorithms.pdb
+C:\Users\iwork\source\repos\SimpleAlgorithms\SimpleAlgorithms\obj\Debug\SimpleAlgorithms.csprojAssemblyReference.cache
+C:\Users\iwork\source\repos\SimpleAlgorithms\SimpleAlgorithms\obj\Debug\SimpleAlgorithms.exe
+C:\Users\iwork\source\repos\SimpleAlgorithms\SimpleAlgorithms\obj\Debug\SimpleAlgorithms.pdb
